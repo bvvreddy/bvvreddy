@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bvvreddy
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on machine learningf modelling
+- 👀 I’m a Software Development Engineer
 - 📫 How to reach me vamshi8667@gmail.com
 
 <!---
